@@ -140,3 +140,9 @@ button, input, select, textarea {
 .text-right {
     text-align: right;
 }
+
+/* A 수정 */
+.a {
+    font-size: 12px;
+}
+/* //A 수정 */
