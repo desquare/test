@@ -141,6 +141,12 @@ button, input, select, textarea {
     text-align: right;
 }
 
+/* A 수정 */
+.a {
+    font-size: 12px;
+}
+/* //A 수정 */
+
 /* B가 수정 */
 span {
     font-size: 100px;
